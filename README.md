@@ -25,6 +25,12 @@ This exercise provided hands-on experience in **data modeling**, **schema design
 ```
 
 ---
+## 🧠 Key Skills Demonstrated
+- Data modeling and schema design (Conceptual & Physical)
+- Entity-Relationship Diagrams (ERDs) with Crow’s Foot notation
+- Resolving many-to-many relationships using associative entities
+- Preparing and validating sample datasets for implementation
+---
 
 ## 🛠 Tools Used
 - ERD Tools: MS Visio or LucidChart (Crow’s Foot Notation)  
