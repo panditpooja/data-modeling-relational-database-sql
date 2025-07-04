@@ -16,17 +16,19 @@ This exercise provided hands-on experience in **data modeling**, **schema design
 ---
 
 ## 📂 Repository Structure
-├── requirements_analysis.pdf # Business requirements document
-├── data.xlsx # Sample dataset for the database
-├── conceptual_data_model.png # Conceptual ER diagram (Crow’s Foot notation)
-├── physical_data_model.png # Physical database schema diagram
-
+```
+📦 data-modeling-relational-database-sql
+├── requirements_analysis.pdf        # Business requirements document
+├── data.xlsx                        # Sample dataset for the database
+├── conceptual_data_model.png        # Conceptual ER diagram (Crow’s Foot notation)
+└── physical_data_model.png          # Physical database schema diagram
+```
 
 ---
 
 ## 🛠 Tools Used
-- ERD Tools: Draw.io / Lucidchart (Crow’s Foot Notation)  
-- Data Representation: Excel  
+- ERD Tools: Lucidchart (Crow’s Foot Notation)  
+- Data Representation: Excel File 
 - Database Design Concepts: Relational schema, primary/foreign keys, many-to-many relationships.  
 
 ---
