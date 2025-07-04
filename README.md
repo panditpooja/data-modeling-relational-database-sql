@@ -27,7 +27,7 @@ This exercise provided hands-on experience in **data modeling**, **schema design
 ---
 
 ## 🛠 Tools Used
-- ERD Tools: Lucidchart (Crow’s Foot Notation)  
+- ERD Tools: MS Visio or LucidChart (Crow’s Foot Notation)  
 - Data Representation: Excel File 
 - Database Design Concepts: Relational schema, primary/foreign keys, many-to-many relationships.  
 
